@@ -1,4 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Elsie:wght@400;900&family=Playwrite+BR+Guides&display=swap');
+
+
+
 :root{--vermelho: rgb(197, 55, 81);
     --creme: rgb(238, 221, 202);
     --rosa: rgb(243, 132, 206);
-    --verde: rgb(99, 218, 144);}
+    --verde: rgb(99, 218, 144);
+--titulo:"Elsie", serif;
+--texto:"Playwrite BR Guides",
+}
